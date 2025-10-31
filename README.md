@@ -1,10 +1,6 @@
 # 👋 Hey, I'm Tanmay Singh
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3o1dHU4c2xrNXo1ZWRjdWhmM3N5eTZ1azIyM3ZnNG1idzFwODA1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7702jh3NsloOseiDUk/giphy.gif" width="300"/>
-
-<p align="center">
-  <img src="YOUR_LINK_HERE" width="300"/>
-</p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUzNG5yZDlhMG9ianh4cHdkZmFqcnMwdWV4ZjNxYmltMnA0OTVleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IQECgGqgNHTUj5FgCQ/giphy.gif" width="300"/>
 
 🎓 I'm a Computer Science undergrad (Big Data Analytics)  
 🚀 Learning Full Stack Development | AI | ML | Finance  
