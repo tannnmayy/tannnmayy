@@ -14,3 +14,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-orange?logo=instagram)](https://instagram.com/tannnmayy)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/tanmaysingh)
 
+![Profile Views](https://komarev.com/ghpvc/?username=tannnmayy)
