@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Tanmay Singh
 
 <p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3o1dHU4c2xrNXo1ZWRjdWhmM3N5eTZ1azIyM3ZnNG1idzFwODA1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7702jh3NsloOseiDUk/giphy.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29jeGRndjRsa3Bqd3A3Y2M2dHIzNnhva2l0dnprMWE3Nzl1amw0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqb5K5564JSlW/giphy.gif" width="300"/>
 </p>
 
 
