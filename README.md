@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Tanmay Singh
 
-<!--
-**tannnmayy/tannnmayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science undergrad (Big Data Analytics)  
+🚀 Learning Full Stack Development | AI | ML | Finance  
+💡 Building projects that merge tech and impact  
 
-Here are some ideas to get you started:
+🧠 Interests:
+- DSA in JAVA 
+- ML + AI
+- Web Dev (MERN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/tanmay-singh-366717291/])
+[![Instagram](https://img.shields.io/badge/Instagram-orange?logo=instagram)](https://instagram.com/tannnmayy)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/tanmaysingh)
+
