@@ -45,5 +45,7 @@
    </td>
   </tr>
 </table>
-
+<p align="center">
+	open for collaboration
+</p>
 </div>
