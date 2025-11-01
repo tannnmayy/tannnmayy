@@ -41,7 +41,7 @@
 
    <!-- Right Side -->
    <td width="30%" align="center" valign="top">
-     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM3c3dhMmR1NGdndTdzamRheHdzemE3bnVsdXQwcnZvaWpnaHN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.gif" width="260" alt="Coding GIF"/>
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRtOTc0bmViN2E1MDhldTF5czUza2Y4bzU1empibmxqdW94am9ndyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMWiICTjKof5hZK/giphy.gif" width="260" alt="Coding GIF"/>
    </td>
   </tr>
 </table>
