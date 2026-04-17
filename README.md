@@ -17,9 +17,7 @@ systems.
 ---
 
 ### 💡 Interests
-- 💻 DSA in **Java**  
-- 🤖 ML + AI  
-- 🌐 Web Dev (**MERN**)  
+AI/ML Engineering, Backend Systems Development, Scalable Distributed Systems, Applied Machine Learning
 
 ---
 
