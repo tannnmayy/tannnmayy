@@ -27,9 +27,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tannnmayy&style=flat-square&color=blue)
 
-### 📈 GitHub Stats
-![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tannnmayy&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannnmayy&layout=compact&theme=radical)
 
 ### 🔥 Streak Stats
