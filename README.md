@@ -6,7 +6,7 @@
   <tr>
     <!-- Left Side -->
     <td width="70%" valign="top" style="padding-right: 20px;">
-As a diligent Software Engineer, I specialize in building AI driven, full stack systems with a strong emphasis on backend architecture and scalable machine learning workflows. I have hands on experience developing end-to-end applications using modern technologies like the MERN stack, along with integrating NLP and OCR based pipelines for real world problem solving. As I continue to deepen my understanding of data structures and system design, I try to apply these concepts to build efficient, high-performance solutions. I am currently expanding my skill set into DevOps and actively working toward AWS foundational certifications to build and manage production grade systems.
+ Building AI driven full stack systems with a strong emphasis on backend architecture and scalable machine learning workflows.
 ---
 
 ### 💡 Interests
