@@ -19,17 +19,9 @@ AI/ML Engineering, Backend Systems Development, Scalable Distributed Systems, Ap
 [![Instagram](https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white)](https://instagram.com/tannnmayy)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white)](https://github.com/tannnmayy)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tannnmayy&style=flat-square&color=blue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannnmayy&layout=compact&theme=radical)
-
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=tannnmayy&theme=radical)](https://git.io/streak-stats)
-
-
-
    </td>
-
    <!-- Right Side -->
    <td width="30%" align="center" valign="top">
      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRtOTc0bmViN2E1MDhldTF5czUza2Y4bzU1empibmxqdW94am9ndyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMWiICTjKof5hZK/giphy.gif" width="260" alt="Coding GIF"/>
