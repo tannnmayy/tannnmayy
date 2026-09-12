@@ -16,7 +16,10 @@
 - 🎓 B.Tech CSE (Big Data Analytics) @ **SRM Institute of Science and Technology, KTR** — Class of 2028
 - 🔬 **Samsung PRISM Research Intern** @ SRI-B, building lightweight deep learning ISPs that denoise and HDR tone map at the same time in under <6000 Parameters and 30fps for mobile camera systems
 - 🤝 **VP & Co-founder, FAST SRM** — NVIDIA Student Developer Network club driving applied AI research with Nissan, HAL, DRDO, and CMRL
+- 🏆 **1st place**, HACK-SUMMIT Hackathon, out of 400+ teams
 - 🏆 **1st place**, WiCyS SRMIST Hackathon, out of 200+ teams
+- 🏆 **3rd place**, HYBRID-HACK Hackathon, out of 150+ teams
+- 🏆 **Top-10**, Schneider Electric Hackathon, out of 100+ teams
 - 📜 2× **AWS Certified** · Oracle AI Foundations Certified
 - 🌱 Building toward open-source contributions via **LFX Mentorship** (CNCF)
 - 💼 Open to **Software Engineering, AI/ML, and Research** internships
