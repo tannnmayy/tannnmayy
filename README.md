@@ -15,7 +15,7 @@
 
 - 🎓 B.Tech CSE (Big Data Analytics) @ **SRM Institute of Science and Technology, KTR** — Class of 2028
 - 🔬 **Samsung PRISM Research Intern** @ SRI-B, building lightweight deep learning ISPs that denoise and HDR tone map at the same time in under <6000 Parameters and 30fps for mobile camera systems
-- 🤝 **VP & Co-founder, FAST SRM** — NVIDIA Student Developer Network club driving applied AI research with Nissan, HAL, DRDO, and CMRL
+- 🤝 **President & Co-founder, FAST SRM** — NVIDIA Student Developer Network club driving applied AI research with Nissan, HAL, DRDO, and CMRL
 - 🏆 **1st place**, HACK-SUMMIT Hackathon, out of 400+ teams
 - 🏆 **1st place**, WiCyS SRMIST Hackathon, out of 200+ teams
 - 🏆 **3rd place**, HYBRID-HACK Hackathon, out of 150+ teams
@@ -70,17 +70,7 @@ Designing a **5.8K-parameter neural ISP** for the Sony IMX135 camera sensor that
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
-
 ---
-
-### 🏆 Achievements
-
-- 🥇 Winner, WiCyS SRMIST Hackathon (1st among 200+ teams)
-- 🚀 VP & Co-founder, FAST SRM (NVIDIA Student Developer Network) — led a multi-partner national hackathon with Neevcloud, Belden, BMW, and Unstop, securing ₹1.4L+ in sponsorships
-- ☁️ AWS Certified Cloud Practitioner & AI Practitioner (2025)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
